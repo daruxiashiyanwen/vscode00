@@ -1,0 +1,2 @@
+# vscode00
+macvscode
